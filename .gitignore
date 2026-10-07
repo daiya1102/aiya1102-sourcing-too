@@ -6,3 +6,4 @@ inbox/*
 !inbox/.gitkeep
 data/*.bak
 data/.~lock*
+*.whl
