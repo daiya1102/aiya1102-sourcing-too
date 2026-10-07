@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+# 処理済み・失敗した領収書、自動バックアップ
+inbox/*
+!inbox/.gitkeep
+data/*.bak
+data/.~lock*
